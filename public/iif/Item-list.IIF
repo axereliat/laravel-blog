@@ -1,0 +1,239 @@
+!HDR	PROD	VER	REL	IIFVER	DATE	TIME	ACCNTNT	ACCNTNTSPLITTIME
+HDR	QuickBooks Desktop Pro	Version 31.0D	Release R5P	1	2021-05-03	1620059723	N	0
+!CUSTITEMDICT	INDEX	LABEL	INUSE
+!ENDCUSTITEMDICT
+CUSTITEMDICT	0		N
+CUSTITEMDICT	1		N
+CUSTITEMDICT	2		N
+CUSTITEMDICT	3		N
+CUSTITEMDICT	4		N
+CUSTITEMDICT	5		N
+CUSTITEMDICT	6		N
+CUSTITEMDICT	7		N
+CUSTITEMDICT	8		N
+CUSTITEMDICT	9		N
+CUSTITEMDICT	10		N
+CUSTITEMDICT	11		N
+CUSTITEMDICT	12		N
+CUSTITEMDICT	13		N
+CUSTITEMDICT	14		N
+ENDCUSTITEMDICT
+!INVITEM	NAME	REFNUM	TIMESTAMP	INVITEMTYPE	DESC	PURCHASEDESC	ACCNT	ASSETACCNT	COGSACCNT	QNTY	VALUE	PRICE	COST	TAXABLE	SALESTAXCODE	PAYMETH	TAXVEND	PREFVEND	REORDERPOINT	EXTRA	CUSTFLD1	CUSTFLD2	CUSTFLD3	CUSTFLD4	CUSTFLD5	DEP_TYPE	ISPASSEDTHRU	HIDDEN	DELCOUNT	USEID	ISNEW	PO_NUM	SERIALNUM	WARRANTY	LOCATION	VENDOR	ASSETDESC	SALEDATE	SALEEXPENSE	NOTES	ASSETNUM	COSTBASIS	ACCUMDEPR	UNRECBASIS	PURCHASEDATE
+INVITEM	-	131	1268072142	SERV			misc					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	50% Deposit	94	1144845794	SERV	A 50% Deposit is required to start project	A 50% Deposit is required to start project	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Alarm	79	1079096433	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Appliance	33	1038263486	SERV			Property Management Income					0.00	0.00	N												0	N	N	1	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Audio/Visual	136	1303307897	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Automotive	80	1082549932	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Balance	155	1334751812	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Bi-Annual Caretaking	51	1024601412	SERV	Six month property management Fee	Six month property management Fee	Caretaking Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Bi-Annual Caretaking Jan	113	1224855662	SERV	Six month property management Fee	Six month property management Fee	Caretaking Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Blizzard Check	158	1360764062	SERV	"Multiple property inspections required to shut off water main and drain house down as much as possible due to wide spread power outages, to insure power has come back on and heating systems are running, and to check house for storm damage. \nEmergency rates apply."	"Multiple property inspections required to shut off water main and drain house down as much as possible due to wide spread power outages, to insure power has come back on and heating systems are running, and to check house for storm damage. \nEmergency rates apply."	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Boat Maintenance	92	1134569808	SERV	Boat Maintenance	Boat Maintenance	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Boiler	162	1403270139	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Bulit-ins	194	1553690469	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Cabinets	149	1324484436	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Car drop off	73	1075295821	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Car Inspection	119	1235743084	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Car pick up	177	1464613163	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Caretaking	1	1011814627	SERV	Unlock/lock	Unlock/lock	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Caretaking:memo	29	1011891330	SERV			Subcontractors						0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Caretaking:Misc	30	1011891330	SERV	Unlock/lock	Unlock/lock	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Caretaking:Open/Close	69	1069420163	SERV	Open and close house for	Open and close house for	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Caretaking:Site work	98	1169044581	SERV	Unlock/lock	Unlock/lock	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Carpentry	5	1011891329	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Carpet Cleaning	101	1182518690	SERV	Carpet Cleaning	Carpet Cleaning	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Carpeting	70	1074863998	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Chimney	6	1011891329	SERV	Chimney inspection and cleaning	Chimney inspection and cleaning	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Cleaning	7	1011891329	SERV	House Cleaning	House Cleaning	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Computer	111	1214572779	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	construction	168	1431354884	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Consulting	8	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	contracting	117	1228479560	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Contracting Fee	64	1055335814	SERV	General Contracting fees for:	General Contracting fees for:	Property Management Income					0.15	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Contruction Site Work	208	1617376711	SERV			Cost of Goods Sold					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Copper flashing	151	1324484589	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Crane Service	157	1357242239	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Credit	9	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Deck Cleaning	106	1194618932	SERV	Deck & furniture cleaning & sealing	Deck & furniture cleaning & sealing	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Decking	164	1413383684	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Dehumidificaton	140	1322832579	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Delivery	66	1061384364	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Demo	10	1011891329	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	deposit	11	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Deposit Request	122	1242217630	SERV			Property Management Income						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Deposit/Draw	77	1077279718	SERV			Customer Deposit					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Design	184	1539787473	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Detailing	110	1213797017	SERV	Car detailing	Car detailing	Property Management Income						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Draw/Deposit	78	1077886450	SERV			Customer Deposit					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Dryer Vent	160	1368449825	SERV	Dryer Vent Cleaning	Dryer Vent Cleaning	Property Management Income						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Dryer Vent:Dryer Vent Cleaning1	173	1454337124	SERV	Clean Dryer Vent from inside house and outside - 1 Dryer	Clean Dryer Vent from inside house and outside - 1 Dryer	Property Management Income					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Dryer Vent:Dryer Vent Cleaning2	174	1454509806	SERV	Clean Dryer Vent from inside house and outside - 2 Dryers	Clean Dryer Vent from inside house and outside - 2 Dryers	Property Management Income					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Dryer Vent:Dryer Vent Cleaning3	175	1454509838	SERV	Clean Dryer Vent from inside house and outside - 3 Dryers	Clean Dryer Vent from inside house and outside - 3 Dryers	Property Management Income					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Drywall	124	1255698589	SERV	Drywall	Drywall	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Dryzone	182	1515765277	SERV	Annual maintenance and service on Dryzone systems	Annual maintenance and service on Dryzone systems	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Dump Fees	12	1011891329	SERV	Dump Fees	Dump Fees	Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Dump Run	82	1084538843	SERV	Dump run	Dump run	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Dumpster	93	1141824982	SERV	Dumpster fee/ Empty Dumpster	Dumpster fee/ Empty Dumpster	Property Management Income					0.00	0	N												0	N	N	1	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Electrical	13	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Emergency Visit	84	1106749888	SERV	Emergency visit due to	Emergency visit due to	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Engineering	130	1264772663	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Excavation	14	1011891329	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Exterior Trim	144	1324481371	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Extras	15	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Extreme Cold	71	1075295181	SERV	Extra visits due to extreme cold & high wind week of	Extra visits due to extreme cold & high wind week of	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Fed Ex	16	1011891329	SERV	Shipping mail/packages	Shipping mail/packages	Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Fence Work	159	1361284103	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Fencing	197	1575298646	SERV			Property Management Income						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Firewood	126	1260368945	SERV	Purchased & delivered firewood	Purchased & delivered firewood	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Flooring	125	1255698606	SERV	Flooring	Flooring	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Floors	17	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Foundation	139	1314968914	SERV	Foundation	Foundation	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Foundation Treatment	198	1575298821	SERV	Foundation Treatment	Foundation Treatment	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	framing	141	1324481073	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Freight	2	1011814957	SERV	Freight costs for above item	Freight costs for above item	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Fuel	215	1618515538	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Furnace Service	72	1075295633	SERV	Cleaning and seasonal maintenance	Cleaning and seasonal maintenance	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Garage Door	179	1503062631	SERV			Property Management Income						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Garage Doors	169	1439389301	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Garden maintenance	212	1618230648	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Gas Service	18	1011891329	SERV			Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	General Contracting	123	1253109237	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Generator	132	1273239961	SERV	Generator seasonal maintenance	Generator seasonal maintenance	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Glass	3	1033670133	SERV			Property Management Income					0.00	0	N												0	N	N	2	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Grill Cleaning	195	1558700995	SERV	BBQ grill cleaning	BBQ grill cleaning	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Gutter Work	97	1166796387	SERV	Gutter cleaning & oiling	Gutter cleaning & oiling	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Hardscape	147	1324484037	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Hardware	170	1439389664	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Hazardous Waste	133	1282311086	SERV	"Hazardous waste pick up, processing and deliver to dump on Hazardous Waste day"	"Hazardous waste pick up, processing and deliver to dump on Hazardous Waste day"	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Heating/Cooling	19	1011891329	SERV	Meeting with Heating Service for seasonal maintenance to HVAC	Meeting with Heating Service for seasonal maintenance to HVAC	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Hurricane Ed	20	1011891329	SERV									0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Hurricane Irene	137	1314363494	SERV	Prepare house for Hurricane Irene\n- Close storm windows & doors\n- Put away/secure outside furniture\n- Misc items	Prepare house for Hurricane Irene\n- Close storm windows & doors\n- Put away/secure outside furniture\n- Misc items	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Hurricane Noel	105	1194446540	SERV	Check house during/after major storm event - Hurricane Noel	Check house during/after major storm event - Hurricane Noel	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	HVAC	104	1187356675	SERV	Preventive maintenance	Preventive maintenance	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	INCLUDED	207	1617299957	SERV			Subcontractors						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Insulation	21	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Interior Trim	146	1324482796	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Irrigation	103	1186748155	SERV	Irrigation work.	Irrigation work.	Property Management Income		Subcontractors			0.00	0.00	N												0	Y	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Irrigation Service	178	1477660663	SERV	Irrigation	Irrigation	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Kitchen	118	1228938258	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Labor	22	1011891329	SERV	Labor costs for above item	Labor costs for above item	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Landscaping	23	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	laundry	109	1210945004	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Lawn service	24	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Lead Paint Abatement	199	1610486272	SERV			Subcontractors					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	leak work	193	1547760171	SERV			Cleaning					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Locksmith	200	1614696177	SERV			Property Management Income		Subcontractors			0.00	0.00	N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Maintenance	25	1011891329	SERV									0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Masonry	26	1011891329	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Master Bath	27	1011891330	SERV									0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Master Bath Reno	135	1290183390	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Materials	28	1011891330	SERV	Material costs for above item	Material costs for above item	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Media Service	107	1199716714	SERV	Media System Service/Installation	Media System Service/Installation	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Meeting	76	1075899156	SERV	Meeting with owner to discuss work	Meeting with owner to discuss work	Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Miscellaneous	209	1617800170	SERV			Subcontractors					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Mosquito	96	1154098568	SERV	Mosquito & Tick Treatment	Mosquito & Tick Treatment	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Moving	176	1459342663	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Nor'easter	108	1201874993	SERV	Check house after major storm event	Check house after major storm event	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Not  Included	203	1616774083	SERV	Permitting and dump fees are not included.	Permitting and dump fees are not included.	Subcontractors					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	NOT INCLUDED	202	1616773937	SERV			Subcontractors						0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	NOT INCLUDED:Not Included	31	1011891330	SERV	"Unseen conditions, electric and painting are not included."	"Unseen conditions, electric and painting are not included."	Subcontractors						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	NOTE	32	1011891330	SERV			Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	NOTE:Billing	4	1025623200	SERV	PLEASE NOTE:  \nTHERE ARE TWO BILLS ENCLOSED.  \nPLEASE PAY BOTH.	PLEASE NOTE:  \nTHERE ARE TWO BILLS ENCLOSED.  \nPLEASE PAY BOTH.	Miscellaneous Direct Costs					0.00	0.00	N												0	N	N	1	N	N								0.00			0.00	0.00	0.00	
+INVITEM	NOTE:Note	206	1616776284	SERV	This is just an estimate.	This is just an estimate.	Subcontractors					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Oil Burner	115	1225456163	SERV	Service & cleaning	Service & cleaning	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Option	185	1545055769	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Optional	56	1074860152	SERV			Property Management Income					0.00	0	N												0	N	N	1	N	N								0.00			0.00	0.00	0.00	
+INVITEM	overhead	34	1011891330	SERV									0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Paint Washing	217	1619707474	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Painting	35	1011891330	SERV	"Prep, prime and paint"	"Prep, prime and paint"	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Past due	36	1011891330	SERV									0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Payment	37	1011891330	SERV	Payment Request	Payment Request	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	pcf	88	1119618487	SERV	Phone conference	Phone conference	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Pergola	145	1324481445	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Permits	38	1011891330	SERV	Permit work	Permit work	Property Management Income						0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Pest Control	65	1060257811	SERV	Pest Control Service	Pest Control Service	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Pest Control:Monthly	204	1616774338	SERV	Monthly Pest Control Service	Monthly Pest Control Service	Property Management Income					129.25	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Pest Control:Quarterly	205	1616775320	SERV	Quarterly Pest Control	Quarterly Pest Control	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Phone	91	1133532209	SERV	Service for phone lines.	Service for phone lines.	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Plaster	39	1011891330	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Plowing	166	1424874139	SERV	Plow driveway	Plow driveway	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Plumbing	40	1011891330	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Plumbing - inside water	214	1618513448	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Plumbing - outside water	181	1509543288	SERV	Open/close house to drain outside water for winter	Open/close house to drain outside water for winter	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Plumbing fixtures/Glass door	150	1324484505	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Plumbing/Gas	116	1227967157	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Pool	52	1033671638	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Port-a-potty	90	1120051059	SERV	Portable toilet rental and cleaning	Portable toilet rental and cleaning	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Post Storm	138	1314794286	SERV	Post storm house check	Post storm house check	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Power Washing	83	1088600392	SERV	Power washing	Power washing	Property Management Income					0.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Printing	183	1533133963	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Propane	211	1617905932	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management	186	1547215348	SERV			Property Management Income		Subcontractors			0.00	0.00	N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management:Carpentry	192	1547646948	SERV			Property Management Income		Subcontractors					N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management:Landfill Fee	190	1547645910	SERV			Property Management Income		Landfill Fees			0.00	0.00	N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management:Licenses & Permits	191	1547646108	SERV			Property Management Income		Licenses & Permits			0.00	0.00	N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management:Materials	189	1547645885	SERV			Property Management Income		Materials			0.00	0.00	N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management:Miscellaneous	188	1547645868	SERV			Property Management Income		Miscellaneous Direct Costs			0.00	0.00	N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Property Management:Property Management	187	1547644641	SERV			Property Management Income		Subcontractors					N												0	Y	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Receipt	41	1011891330	SERV									0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Renovation	180	1507730607	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Roller Shade	129	1264603092	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Roof Cleaning	171	1443017635	SERV	Roof Cleaning	Roof Cleaning	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Roofing	43	1011891330	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Roofing:Sealing	210	1617905679	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Rug Cleaning	121	1241010387	SERV	Rug cleaning	Rug cleaning	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Security	58	1042635380	SERV	Check  property after security system failure	Check  property after security system failure	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Septic	57	1040304352	SERV	Pumped out Septic system	Pumped out Septic system	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Service Fee	75	1075898348	SERV	Service fee for above item	Service fee for above item	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Sewer Work	120	1239287016	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Shingling	44	1011891330	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Shipping	67	1063802721	SERV	Shipping Charge	Shipping Charge	Property Management Income					0.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Shutters	148	1324484231	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	sidewall/roofing	143	1324481293	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Sign & Copy	85	1108564616	SERV	Please sign estimate and return copy to Brant Point Building with deposit to begin project	Please sign estimate and return copy to Brant Point Building with deposit to begin project	Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Site visit	89	1119618644	SERV	Site visit	Site visit	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Skylight	213	1618406527	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Snow Removal	165	1423668777	SERV	Snow removal	Snow removal	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Solar	196	1573655195	SERV	Photovoltaic System	Photovoltaic System	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Spa	102	1184161408	SERV	Spa service	Spa service	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Speakers	45	1011891330	SERV									0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Spring Opening	95	1149857968	SERV	Spring opening of the house:\nPut outside furniture out\nOpen storms\nTurn on outside water\nOpen crawl space vents\nEtc.	Spring opening of the house:\nPut outside furniture out\nOpen storms\nTurn on outside water\nOpen crawl space vents\nEtc.	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Sprinkler	61	1053604565	SERV	Meeting with sprinkler service for seasonal maintenance	Meeting with sprinkler service for seasonal maintenance	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Sprinkler draining	114	1225455786	SERV	Open & close house for sprinkler draining	Open & close house for sprinkler draining	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	stairs	128	1263410999	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Stone	161	1389623958	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Storage Unit	154	1331730160	SERV	Monthly storage unit fee	Monthly storage unit fee	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Storm Check	99	1176899601	SERV	Check house during/after major storm event	Check house during/after major storm event	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Storm Prep	112	1221053750	SERV	Prepare house for storm\nClose storm windows & doors\nPut away/secure outside furniture\nMisc items	Prepare house for storm\nClose storm windows & doors\nPut away/secure outside furniture\nMisc items	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Storm Windows	63	1054124379	SERV	Open/close storm windows and doors	Open/close storm windows and doors	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Subcontractor	53	1037908215	SERV			Subcontractors					0.00	0	N												0	N	Y	1	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Surveying	46	1011891330	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Tile/Stone	152	1324489249	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Tiling	47	1011891330	SERV			Property Management Income						0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Trash	172	1446036803	SERV	Monthly trash service	Monthly trash service	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Tree Work	134	1284554956	SERV	Tree trimming	Tree trimming	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Trim Washing	167	1430317075	SERV	Painted trim washing	Painted trim washing	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Twice-Weekly	153	1325254007	SERV	Twice a week house inspections as requested on property management agreement	Twice a week house inspections as requested on property management agreement	Caretaking Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Unlocked/Locked House	74	1075296581	SERV	Unlocked/Locked House	Unlocked/Locked House	Property Management Income					40.00	0	N												0	N	Y	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Upholstry Cleaning	216	1618518836	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Vehicle Storage	127	1263217697	SERV	Vehicle storage	Vehicle storage	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Wall Board	59	1044451127	SERV	Installation of wall board	Installation of wall board	Property Management Income					0.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Wallpapering	81	1083758066	SERV			Property Management Income					40.00	0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Water Filtration	156	1342186476	SERV	Annual water filtration system maintenance	Annual water filtration system maintenance	Property Management Income					40.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Water Shut Off	54	1038263645	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Water Turn On	62	1053608182	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Welding	163	1407938924	SERV	Welding	Welding	Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Window Cleaning	60	1053522398	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Window Repair	48	1011891330	SERV			Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	windows/doors	142	1324481154	SERV			Subcontractors					0.00	0.00	N												0	N	Y	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Winter Shut down	68	1069420090	SERV	Winter shut down of house\nPut away outside furniture\nClosed storms\nShut off outside water\nClosed crawl space vents\nEtc.	Winter shut down of house\nPut away outside furniture\nClosed storms\nShut off outside water\nClosed crawl space vents\nEtc.	Property Management Income					40.00	0.00	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Zero	100	1178113252	SERV			Property Management Income					0.00	0.00	N												0	N	N	0	N	Y								0.00			0.00	0.00	0.00	
+INVITEM	Fin Chg	86	1109941280	OTHC	Finance Charges on Overdue Balance	Finance Charges on Overdue Balance	Property Management Income					18.0%	0.00	N					0							0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Reimb Subt	50	1024001252	SUBT	Reimbursable Expenses Subtotal								0.00	N					0	REXPSUBTOT						0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Subtotal	55	1038400698	SUBT	Subtotal								0	N												0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+INVITEM	Discount	87	1114176270	DISC	Professional Discount		Property Management Income					0.00	0	Y	Tax											0	N	N	0	N	N								0.00			0.00	0.00	0.00	
+!INVITEM	NAME	REFNUM	TIMESTAMP	INVITEMTYPE	DESC	TOPRINT	EXTRA	QNTY	CUSTFLD1	CUSTFLD2	CUSTFLD3	CUSTFLD4	CUSTFLD5	HIDDEN	DELCOUNT	USEID
+!ENDGRP
+INVITEM	Reimb Group	49	1024001252	GRP	Total Reimbursable Expenses	Y	REXPGROUP							N	0	N
+ENDGRP
